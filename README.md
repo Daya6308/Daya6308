@@ -4,6 +4,8 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+I am a highly motivated and detail-oriented cybersecurity analyst. I actively work to identify and analyze potential risks, threats, and vulnerabilities to security and ensure the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike. 
+
 <!--
 **Daya6308/Daya6308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
